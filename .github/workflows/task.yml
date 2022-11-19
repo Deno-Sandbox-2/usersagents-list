@@ -3,8 +3,8 @@
 name: Never Be Late
 
 on:
-  schedule:
-  - cron: "0 * * * *"
+  #schedule:
+  #- cron: "0 * * * *"
   push:
     branches:
     - main
