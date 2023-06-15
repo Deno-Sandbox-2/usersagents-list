@@ -3,8 +3,9 @@
 name: Never Be Late
 
 on:
-  #schedule:
-  #- cron: "0 * * * *"
+  schedule:
+  - cron: "0 * * * *"
+  workflow_dispatch:
   push:
     branches:
     - main
