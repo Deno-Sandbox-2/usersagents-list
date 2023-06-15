@@ -9,7 +9,7 @@ let list = []
 for(let i = 0; i < userAgents.length; i++) {
     let userAgent = {
         name: userAgents[i].match(/<b>(.+?)<\/b>/)[1],
-        data: userAgents[i].split(':')[1]
+        data: userAgents[i].split(':')[1].spit('</div>')[0]
     }
 
     // add the OS detection from data
