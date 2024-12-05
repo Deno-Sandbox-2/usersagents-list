@@ -1,73 +1,7 @@
 [
     {
         "name": "Unknown",
-        "data": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Opera",
-        "data": " Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40",
-        "os": "Windows NT 6.3",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Python/3.8 aiohttp/3.10.10",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "CCBot",
-        "data": " CCBot/2.0 (https",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.69 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http",
-        "os": "Linux; Android 6.0.1; Nexus 5X Build/MMB29P",
-        "mobile": true
-    },
-    {
-        "name": "Unknown",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "DuckDuckBot",
-        "data": " DuckDuckBot/1.1; (+http",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Coccoc Bot",
-        "data": " Mozilla/5.0 (compatible; coccocbot-web/1.0; +http",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.92 Safari/537.36",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https",
-        "os": "KHTML, like Gecko",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36",
         "os": "Windows NT 10.0; Win64; x64",
         "mobile": false
     },
@@ -76,18 +10,6 @@
         "data": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
         "os": "Macintosh; Intel Mac OS X 10_15_7",
         "mobile": false
-    },
-    {
-        "name": "Sogou Web Spider",
-        "data": " Sogou web spider/4.0(+http",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",
-        "os": "Linux; Android 10; K",
-        "mobile": true
     },
     {
         "name": "Unknown",
@@ -114,9 +36,21 @@
         "mobile": false
     },
     {
+        "name": "Sogou Web Spider",
+        "data": " Sogou web spider/4.0(+http",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
         "name": "Unknown",
         "data": " Mozilla/5.0 (X11; Linux x86_64; rv",
         "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "os": "Windows NT 10.0; Win64; x64",
         "mobile": false
     },
     {
@@ -170,6 +104,12 @@
     {
         "name": "Unknown",
         "data": " Mozilla/5.0 (compatible; AhrefsSiteAudit/6.1; +http",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Python/3.8 aiohttp/3.10.10",
         "os": "Unknown",
         "mobile": false
     },
@@ -241,6 +181,12 @@
     },
     {
         "name": "Unknown",
+        "data": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
         "data": " python-requests/2.32.3",
         "os": "Unknown",
         "mobile": false
@@ -255,6 +201,12 @@
         "name": "Unknown",
         "data": " Mozilla/5.0 (Windows NT 15.0.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.60 Chrome/124.0.6367.60 Not-A.Brand/99  Safari/537.36",
         "os": "Windows NT 15.0.0; Win64; x64; ",
+        "mobile": false
+    },
+    {
+        "name": "DuckDuckBot",
+        "data": " DuckDuckBot/1.1; (+http",
+        "os": "Unknown",
         "mobile": false
     },
     {
@@ -304,6 +256,12 @@
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 GLS/100.10.9939.100",
         "os": "Windows NT 10.0; Win64; x64",
         "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.69 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http",
+        "os": "Linux; Android 6.0.1; Nexus 5X Build/MMB29P",
+        "mobile": true
     },
     {
         "name": "Unknown",
@@ -598,5 +556,47 @@
         "data": " Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/[WEBKIT_VERSION] (KHTML, like Gecko; Mediapartners-Google) Chrome/[CHROME_VERSION] Mobile Safari/[WEBKIT_VERSION]",
         "os": "Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B",
         "mobile": true
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https",
+        "os": "KHTML, like Gecko",
+        "mobile": false
+    },
+    {
+        "name": "Chrome",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+        "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
+        "name": "Superfeedr Bot",
+        "data": " Superfeedr bot/2.0 http",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Baiduspider",
+        "data": " Mozilla/5.0 (compatible; Baiduspider/2.0; +http",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Baiduspider",
+        "data": " Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Yandex Browser",
+        "data": " Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36",
+        "os": "Windows NT 10.0; WOW64",
+        "mobile": false
+    },
+    {
+        "name": "Chrome",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
     }
 ]
