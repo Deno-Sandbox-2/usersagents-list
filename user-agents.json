@@ -1,15 +1,9 @@
 [
     {
-        "name": "Chrome",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
         "name": "Unknown",
-        "data": " Chrome",
-        "os": "Unknown",
-        "mobile": false
+        "data": " Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+        "os": "Linux; Android 10; K",
+        "mobile": true
     },
     {
         "name": "Unknown",
@@ -18,14 +12,8 @@
         "mobile": false
     },
     {
-        "name": "Chrome",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "DuckDuckBot",
-        "data": " DuckDuckBot/1.1; (+http",
+        "name": "Sogou Web Spider",
+        "data": " Sogou web spider/4.0(+http",
         "os": "Unknown",
         "mobile": false
     },
@@ -37,19 +25,7 @@
     },
     {
         "name": "Unknown",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.3",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
-        "os": "Linux; Android 10; K",
-        "mobile": true
-    },
-    {
-        "name": "Sogou Web Spider",
-        "data": " Sogou web spider/4.0(+http",
+        "data": " Chrome",
         "os": "Unknown",
         "mobile": false
     },
@@ -64,6 +40,12 @@
         "data": " Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1",
         "os": "iPhone; CPU iPhone OS 18_1_1 like Mac OS X",
         "mobile": true
+    },
+    {
+        "name": "DuckDuckBot",
+        "data": " DuckDuckBot/1.1; (+http",
+        "os": "Unknown",
+        "mobile": false
     },
     {
         "name": "Google Bot",
@@ -294,6 +276,12 @@
         "mobile": false
     },
     {
+        "name": "Chrome",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
+        "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
         "name": "Unknown",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SberBrowser/16.1.2409.0",
         "os": "Windows NT 10.0; Win64; x64",
@@ -481,6 +469,12 @@
     },
     {
         "name": "Chrome",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36",
+        "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
+        "name": "Chrome",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
         "os": "Windows NT 10.0; Win64; x64",
         "mobile": false
@@ -596,6 +590,12 @@
     {
         "name": "Unknown",
         "data": " Mozilla/5.0 (compatible; t3versionsBot/1.0; +https",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "cURL",
+        "data": " curl/7.81.0",
         "os": "Unknown",
         "mobile": false
     }
