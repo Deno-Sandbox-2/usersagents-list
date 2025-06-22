@@ -1,60 +1,6 @@
 [
     {
         "name": "Unknown",
-        "data": " Mozilla/5.0 (X11; Linux x86_64; rv",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Scrapy/2.12.0 (+https",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36",
-        "os": "Macintosh; Intel Mac OS X 10_12_5",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/123.0.6312.118 Safari/534.24 XiaoMi/MiuiBrowser/14.30.0-gn",
-        "os": "X11; Linux x86_64",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https",
-        "os": "KHTML, like Gecko",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-        "os": "Linux; Android 10; K",
-        "mobile": true
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
         "data": " Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http",
         "os": "Linux; Android 6.0.1; Nexus 5X Build/MMB29P",
         "mobile": true
@@ -69,6 +15,18 @@
         "name": "Unknown",
         "data": " Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv",
         "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https",
+        "os": "KHTML, like Gecko",
         "mobile": false
     },
     {
@@ -188,6 +146,12 @@
     {
         "name": "Chrome",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
+        "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
         "os": "Windows NT 10.0; Win64; x64",
         "mobile": false
     },
@@ -595,7 +559,43 @@
     },
     {
         "name": "Unknown",
+        "data": " Scrapy/2.12.0 (+https",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
         "data": " Python/3.9 aiohttp/3.10.6",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (compatible; Barkrowler/0.9; +https",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.8211.1218 Mobile Safari/537.36",
+        "os": "Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012",
+        "mobile": true
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "os": "X11; Linux x86_64",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36",
+        "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv",
         "os": "Unknown",
         "mobile": false
     }
