@@ -1,72 +1,6 @@
 [
     {
         "name": "Unknown",
-        "data": " Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.68 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http",
-        "os": "Linux; Android 6.0.1; Nexus 5X Build/MMB29P",
-        "mobile": true
-    },
-    {
-        "name": "DuckDuckBot",
-        "data": " DuckDuckBot/1.1; (+http",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Safari",
-        "data": " Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "os": "iPhone; CPU iPhone OS 13_2_3 like Mac OS X",
-        "mobile": true
-    },
-    {
-        "name": "Chrome",
-        "data": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/[WEBKIT_VERSION] (KHTML, like Gecko, Mediapartners-Google) Chrome/[CHROME_VERSION] Safari/[WEBKIT_VERSION]",
-        "os": "Macintosh; Intel Mac OS X 10_7_3",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/137.0.7151.68 Mobile Safari/537.36",
-        "os": "Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B",
-        "mobile": true
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/137.0.7151.68 Safari/537.36",
-        "os": "Macintosh; Intel Mac OS X 10_7_3",
-        "mobile": false
-    },
-    {
-        "name": "AdSense Bot",
-        "data": " Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/[WEBKIT_VERSION] (KHTML, like Gecko; Mediapartners-Google) Chrome/[CHROME_VERSION] Mobile Safari/[WEBKIT_VERSION]",
-        "os": "Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B",
-        "mobile": true
-    },
-    {
-        "name": "Firefox",
-        "data": " Mozilla/5.0 (Windows NT 10.0; WOW64; Rv",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (X11; Linux x86_64; rv",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Chrome",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0 Safari/537.36",
-        "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
-        "data": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-        "os": "Macintosh; Intel Mac OS X 10_15_7",
-        "mobile": false
-    },
-    {
-        "name": "Unknown",
         "data": " Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv",
         "os": "Unknown",
         "mobile": false
@@ -78,9 +12,9 @@
         "mobile": false
     },
     {
-        "name": "Edge",
-        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68",
-        "os": "Windows NT 10.0; Win64; x64",
+        "name": "Chrome",
+        "data": " Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+        "os": "Windows NT 6.1",
         "mobile": false
     },
     {
@@ -93,18 +27,6 @@
         "name": "Unknown",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
         "os": "Windows NT 10.0; Win64; x64",
-        "mobile": false
-    },
-    {
-        "name": "AhrefsBot",
-        "data": " Mozilla/5.0 (compatible; AhrefsBot/7.0; +http",
-        "os": "Unknown",
-        "mobile": false
-    },
-    {
-        "name": "Chrome",
-        "data": " Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
-        "os": "Windows NT 6.1",
         "mobile": false
     },
     {
@@ -139,6 +61,12 @@
     },
     {
         "name": "Unknown",
+        "data": " Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.68 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http",
+        "os": "Linux; Android 6.0.1; Nexus 5X Build/MMB29P",
+        "mobile": true
+    },
+    {
+        "name": "Unknown",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36",
         "os": "Windows NT 10.0; Win64; x64",
         "mobile": false
@@ -162,6 +90,12 @@
         "mobile": false
     },
     {
+        "name": "Safari",
+        "data": " Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "os": "iPhone; CPU iPhone OS 13_2_3 like Mac OS X",
+        "mobile": true
+    },
+    {
         "name": "Chrome",
         "data": " Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36",
         "os": "Windows NT 6.1; Win64; x64",
@@ -177,6 +111,12 @@
         "name": "Edge",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43",
         "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (X11; Linux x86_64; rv",
+        "os": "Unknown",
         "mobile": false
     },
     {
@@ -210,6 +150,12 @@
         "mobile": false
     },
     {
+        "name": "AhrefsBot",
+        "data": " Mozilla/5.0 (compatible; AhrefsBot/7.0; +http",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
         "name": "Unknown",
         "data": " Mozilla/5.0 (compatible; MJ12bot/v2.0.2; http",
         "os": "Unknown",
@@ -219,6 +165,12 @@
         "name": "Chrome",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
         "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+        "os": "Macintosh; Intel Mac OS X 10_15_7",
         "mobile": false
     },
     {
@@ -255,6 +207,12 @@
         "name": "Unknown",
         "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36 Edg/114.0.1823.67",
         "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
+        "name": "DuckDuckBot",
+        "data": " DuckDuckBot/1.1; (+http",
+        "os": "Unknown",
         "mobile": false
     },
     {
@@ -597,6 +555,48 @@
         "name": "Yandex Browser",
         "data": " Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36",
         "os": "Windows NT 10.0; WOW64",
+        "mobile": false
+    },
+    {
+        "name": "Firefox",
+        "data": " Mozilla/5.0 (Linux x86_64; rv",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " python-requests/2.32.4",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "YandexBot",
+        "data": " Mozilla/5.0 (compatible; YandexBot/3.0; +http",
+        "os": "Unknown",
+        "mobile": false
+    },
+    {
+        "name": "Unknown",
+        "data": " Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "os": "X11; Linux x86_64",
+        "mobile": false
+    },
+    {
+        "name": "Chrome",
+        "data": " Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36",
+        "os": "X11; Linux x86_64",
+        "mobile": false
+    },
+    {
+        "name": "Chrome",
+        "data": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+        "os": "Windows NT 10.0; Win64; x64",
+        "mobile": false
+    },
+    {
+        "name": "Chrome",
+        "data": " Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
+        "os": "Windows NT 6.3; Win64; x64",
         "mobile": false
     }
 ]
